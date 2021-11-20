@@ -1,0 +1,1 @@
+Current project: Make a website with text, paragraphs, links, and images.
